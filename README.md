@@ -4,4 +4,4 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZ0silver&count_bg=%239E7EE5&title_bg=%238067B6&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z0silver&repo=github-readme-stats)]
